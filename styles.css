@@ -84,7 +84,7 @@
   margin-block: 0.75rem;
   border-radius: 12px;
   color: white;
-  background: linear-gradient(135deg, var(--brand), #22c55e);
+  background: linear-gradient(135deg, var(--brand), green);
 }
 
 
